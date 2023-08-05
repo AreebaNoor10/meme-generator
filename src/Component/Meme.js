@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 
-const Generator = () => {
+const Meme = () => {
   const [meme, setMeme] = useState({
     upperText: "",
     lowerText: "",
@@ -65,7 +65,7 @@ const Generator = () => {
             onChange={handleChange}
           />
         </div>
-        <button onClick={getMemeImage}>Get a new meme image 🖼 </button>
+        <button onClick={getMemeImage}>Get a new meme image 🖼️</button>
       </form>
 
       <div className="meme-container">
@@ -77,4 +77,4 @@ const Generator = () => {
   );
 };
 
-export default Generator;
+export default Meme;
