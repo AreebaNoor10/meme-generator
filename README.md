@@ -1,5 +1,6 @@
 # Meme Generator
-![Project img](https://github.com/AreebaNoor10/meme-generator/assets/141345959/ef9f48cc-5cdc-473d-a3f1-0ff380be2e23)
+
+![Project img](https://github.com/AreebaNoor10/meme-generator/assets/141345959/1add7ae3-7376-48ba-9729-19f00b9c79d9)
 
 # Getting Started with Create React App
 
