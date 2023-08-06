@@ -1,14 +1,3 @@
-# Meme Generator
-
-
-
-![Project img](https://github.com/AreebaNoor10/meme-generator/assets/141345959/55383c43-ad81-4399-a8aa-ff3aa465d8dc)
-
-
-
-
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
