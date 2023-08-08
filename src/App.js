@@ -4,7 +4,7 @@ import Meme from "./Component/Meme";
 function App() {
   return (
     <>
-    <Header/>
+    <Header />
     <Meme/>
     </>
   );
